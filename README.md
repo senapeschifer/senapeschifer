@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me:
     - E-mail: fsenapeschi@gmail.com
-    - Number phone: (16) 99763-2007
+
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I LOVE books, very much. And I 
+- ⚡ Fun fact: I LOVE books, very much. 
 
 <!---
 senapeschifer/senapeschifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
