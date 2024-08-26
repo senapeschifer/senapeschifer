@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @senapeschifer
-- 👀 I’m interested in to read, code and make friends.
-- 🌱 I’m currently learning javaschipt and english.
-- 💞️ I’m looking to collaborate on...
+- 👋 Hi, I’m Fernanda D. Senapeschi 
+- 🌱 I’m currently learning javaschipt, php and SQL.
 - 📫 How to reach me:
     - E-mail: fsenapeschi@gmail.com
-
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I LOVE books, very much. 
 
 <!---
 senapeschifer/senapeschifer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
